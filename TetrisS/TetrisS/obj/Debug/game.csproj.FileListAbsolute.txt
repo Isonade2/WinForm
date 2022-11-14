@@ -1,0 +1,11 @@
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\bin\Debug\TetrisS.exe.config
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\bin\Debug\TetrisS.exe
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\bin\Debug\TetrisS.pdb
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\obj\Debug\game.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\obj\Debug\TetrisS.Form1.resources
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\obj\Debug\TetrisS.Properties.Resources.resources
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\obj\Debug\TetrisS.exe
+C:\Users\kimchi\source\repos\TetrisS\TetrisS\obj\Debug\TetrisS.pdb
